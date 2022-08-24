@@ -1,0 +1,29 @@
+{
+  "name": "react-magma-example",
+  "version": "0.0.0",
+  "description": "A simple example deployed using react-codesandboxer",
+  "main": "index.tsx",
+  "dependencies": {
+    "react": "^16.10.0",
+    "@emotion/styled": "^10.0.27",
+    "@cengage-patterns/header": "2.0.12",
+    "react-magma-dom": "2.6.0",
+    "@data-driven-forms/react-form-renderer": "^3.6.0",
+    "@emotion/core": "^10.1.1",
+    "date-fns": "^2.16.1",
+    "downshift": "^5.4.5",
+    "framer-motion": "^4.1.11",
+    "react-dom": "^16.10.0",
+    "react-magma-icons": "^2.3.1",
+    "@react-magma/charts": "^0.0.4",
+    "@react-magma/schema-renderer": "^0.0.12",
+    "uuid": "^8.3.0",
+    "react-scripts-ts": "^2.13.0"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  }
+}
